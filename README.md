@@ -16,7 +16,7 @@ You can find me on 🌍:
 - [Linkedin](https://www.linkedin.com/in/guillemaleranyperez/)
 - [Github](https://github.com/GuilleAP)
 
-## Technologies and Tools
+## 🛠 Technologies and Tools
 
 ### Web Development:
 
